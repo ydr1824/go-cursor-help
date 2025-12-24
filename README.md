@@ -1,6 +1,6 @@
 # 🚀 Cursor Free Trial Reset Tool
 
-[look here]([https://cursor.com/en/docs/account/pricing](https://cursorunlimitedfreetrial.blogspot.com/2025/09/cursor-unlimited-free-trial-latest.html))
+[look here](https://cursorunlimitedfreetrial.blogspot.com/2025/09/cursor-unlimited-free-trial-latest.html)
  
 
 <div align="center">
