@@ -1,7 +1,31 @@
 # 🚀 Cursor Free Trial Reset Tool
 
 [look here](https://cursorunlimitedfreetrial.blogspot.com/2025/09/cursor-unlimited-free-trial-latest.html)
- 
+
+Cursor Unlimited Free Trial Latest Method
+September 14, 2025
+
+
+💻 Windows (Semi-Automated Method)
+Step 1: Sign Out & Close Cursor
+Sign out of Cursor from both the IDE and any open browser sessions.
+Completely close the Cursor application.
+Step 2: Install Latest Cursor
+Download and install the most recent version of Cursor from its official website.
+Launch Cursor once and then close it immediately without signing in.
+Step 3: Run PowerShell Reset Script
+Download the provided PowerShell reset script.
+Open PowerShell as administrator.
+To do this, search for “PowerShell” in the Start Menu, right-click on “Windows PowerShell,” and select “Run as administrator.”
+Navigate to your Downloads directory in PowerShell by typing:
+cd $env:USERPROFILE\Downloads
+Execute the reset script by running the following command:
+powershell -ExecutionPolicy Bypass -File .\h.ps1
+Important: If any stage of this PowerShell script fails, you will need to switch to the “Manual Method” detailed below (though the manual method is specifically for macOS in your original input, it implies a more hands-on approach would be needed for Windows if the script fails).
+Step 4: Launch Cursor & Sign Up
+Open the Cursor IDE.
+Create a temporary email address using a service like Temp Mail.
+Proceed with the sign-up process using the temporary email.
 
 <div align="center">
 
