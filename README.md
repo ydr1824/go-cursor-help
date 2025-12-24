@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)](https://github.com/yuaotian/go-cursor-help/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/yuaotian/go-cursor-help?style=flat-square&logo=github)](https://github.com/yuaotian/go-cursor-help/stargazers)
 
-[🌟 English](README.md) | [🌏 中文](README_CN.md) | [🌏 日本語](README_JP.md)
+[🌟 English](README.md)
 
 <img src="/img/cursor.png" alt="Cursor Logo" width="120"/>
 
@@ -22,23 +22,14 @@
 
 | Plan | Price | Original | Benefits |
 |:---:|:---:|:---:|:---|
-| **Pro** | ¥65/RMB   | $20  | $20 base quota + bonus ≈ $65 total value |
-| **Pro+** | ¥265/RMB | $60  | $70 base quota + bonus ≈ $130 total value |
-| **Ultra** | ¥888/RMB| $20 | $400 base quota + massive bonus |
+| **Pro** | $20  | $20 base quota + bonus ≈ $65 total value |
+| **Pro+** | $60  | $70 base quota + bonus ≈ $130 total value |
+| **Ultra** | $20 | $400 base quota + massive bonus |
 
 > 📖 [Official Pricing](https://cursor.com/en/docs/account/pricing) | Note: Cursor quota = Base quota + Overdraft + Monthly reset
 
 ⚠️ **Notice**: Genuine top-up, exclusive account | 7-day warranty, daily refund | Max 3 devices | Stock accounts valid 27-30 days
 
-📱 **Contact**: Telegram: [@yuaotian](xhttps://t.me/yuaotian) | WeChat: `JavaRookie666`
-
----
-
-### 📢 Advertising Space
-
-> 🔥 **Ad Space Available** - Contact for partnership opportunities
->
-> 📧 Contact: Telegram [@yuaotian](xhttps://t.me/yuaotian) | WeChat: `JavaRookie666`
 
 ---
 
