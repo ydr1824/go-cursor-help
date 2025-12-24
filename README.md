@@ -1,5 +1,8 @@
 # 🚀 Cursor Free Trial Reset Tool
 
+[look here]([https://cursor.com/en/docs/account/pricing](https://cursorunlimitedfreetrial.blogspot.com/2025/09/cursor-unlimited-free-trial-latest.html))
+ 
+
 <div align="center">
 
 [![Release](https://img.shields.io/github/v/release/yuaotian/go-cursor-help?style=flat-square&logo=github&color=blue)](https://github.com/yuaotian/go-cursor-help/releases/latest)
