@@ -26,11 +26,11 @@
 | **Pro+** | ¥265/RMB | $60  | $70 base quota + bonus ≈ $130 total value |
 | **Ultra** | ¥888/RMB| $20 | $400 base quota + massive bonus |
 
-> 📖 [Official Pricing](https://cursor.com/cn/docs/account/pricing) | Note: Cursor quota = Base quota + Overdraft + Monthly reset
+> 📖 [Official Pricing](https://cursor.com/en/docs/account/pricing) | Note: Cursor quota = Base quota + Overdraft + Monthly reset
 
 ⚠️ **Notice**: Genuine top-up, exclusive account | 7-day warranty, daily refund | Max 3 devices | Stock accounts valid 27-30 days
 
-📱 **Contact**: Telegram: [@yuaotian](https://t.me/yuaotian) | WeChat: `JavaRookie666`
+📱 **Contact**: Telegram: [@yuaotian](xhttps://t.me/yuaotian) | WeChat: `JavaRookie666`
 
 ---
 
@@ -38,7 +38,7 @@
 
 > 🔥 **Ad Space Available** - Contact for partnership opportunities
 >
-> 📧 Contact: Telegram [@yuaotian](https://t.me/yuaotian) | WeChat: `JavaRookie666`
+> 📧 Contact: Telegram [@yuaotian](xhttps://t.me/yuaotian) | WeChat: `JavaRookie666`
 
 ---
 
@@ -184,7 +184,7 @@ winget install --id Microsoft.PowerShell --source winget
 
 </details>
 
-#### Windows 安装特性:
+#### Windows:
 
 - 🔍 Automatically detects and uses PowerShell 7 if available
 - 🛡️ Requests administrator privileges via UAC prompt
@@ -322,43 +322,6 @@ Your feedback helps us improve the tool for everyone. Feel free to open an issue
 
 ---
 
-##  Support
-
-<div align="center">
-<b>If you find this helpful, consider buying me a spicy gluten snack (Latiao) as appreciation~ 💁☕️</b>
-<table>
-<tr>
-
-<td align="center">
-<b>微信赞赏</b><br>
-<img src="img/wx_zsm2.png" width="500" alt="微信赞赏码"><br>
-<small>要到饭咧？啊咧？啊咧？不给也没事~ 请随意打赏</small>
-</td>
-<td align="center">
-<b>支付宝赞赏</b><br>
-<img src="img/alipay.png" width="500" alt="支付宝赞赏码"><br>
-<small>如果觉得有帮助,来包辣条犒劳一下吧~</small>
-</td>
-<td align="center">
-<b>Alipay</b><br>
-<img src="img/alipay_scan_pay.jpg" width="500" alt="Alipay"><br>
-<em>1 Latiao = 1 AI thought cycle</em>
-</td>
-<td align="center">
-<b>WeChat</b><br>
-<img src="img/qun-20.jpg" width="500" alt="WeChat"><br>
-<em>二维码7天内(11月25日前前)有效，过期请加微信或者公众号`煎饼果子卷AI`</em>
-</td>
-<!-- <td align="center">
-<b>ETC</b><br>
-<img src="img/etc.png" width="100" alt="ETC Address"><br>
-ETC: 0xa2745f4CD5d32310AC01694ABDB28bA32D125a6b
-</td>
-<td align="center"> -->
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
